@@ -14,7 +14,6 @@ A fully functional **Educational Management System** built on the ServiceNow Pla
 ## 👥 Team Members
 
 - **Pasupuleti Navaneeth**   
-- 
 
 ---
 
