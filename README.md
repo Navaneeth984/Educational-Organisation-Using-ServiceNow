@@ -12,9 +12,10 @@ A fully functional **Educational Management System** built on the ServiceNow Pla
 ---
 
 ## 👥 Team Members
-
+- **Nattala Sujitha**
 - **Pasupuleti Navaneeth**   
-
+- **Chirithoti Anu Sri Harshini**
+-**Amaravarapu Swarup
 ---
 
 ## 📌 Overview
